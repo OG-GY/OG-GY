@@ -1,0 +1,71 @@
+<svg width="800" height="340" viewBox="0 0 800 340" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap');
+      * { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="340" fill="#0d1117" rx="12"/>
+
+  <!-- Section title -->
+  <text x="28" y="38" fill="#7d8590" font-size="11" font-weight="600" letter-spacing="1.5" text-transform="uppercase">IMPACT BY NUMBERS</text>
+
+  <!-- Stat Card 1: Speaking Events -->
+  <rect x="28" y="52" width="170" height="110" rx="8" fill="#161b22" stroke="#7F77DD" stroke-width="1.5" stroke-dasharray="0"/>
+  <rect x="28" y="52" width="170" height="4" rx="2" fill="#7F77DD"/>
+  <text x="44" y="90" fill="#7F77DD" font-size="13">🎤</text>
+  <text x="44" y="124" fill="#e6edf3" font-size="34" font-weight="700">5</text>
+  <text x="44" y="145" fill="#7d8590" font-size="11">Speaking events</text>
+
+  <!-- Stat Card 2: Attendees -->
+  <rect x="212" y="52" width="170" height="110" rx="8" fill="#161b22" stroke="#1D9E75" stroke-width="1.5"/>
+  <rect x="212" y="52" width="170" height="4" rx="2" fill="#1D9E75"/>
+  <text x="228" y="90" fill="#1D9E75" font-size="13">👥</text>
+  <text x="228" y="124" fill="#e6edf3" font-size="34" font-weight="700">275+</text>
+  <text x="228" y="145" fill="#7d8590" font-size="11">Session attendees</text>
+
+  <!-- Stat Card 3: Students -->
+  <rect x="396" y="52" width="170" height="110" rx="8" fill="#161b22" stroke="#BA7517" stroke-width="1.5"/>
+  <rect x="396" y="52" width="170" height="4" rx="2" fill="#BA7517"/>
+  <text x="412" y="90" fill="#BA7517" font-size="13">🌍</text>
+  <text x="412" y="124" fill="#e6edf3" font-size="34" font-weight="700">1000+</text>
+  <text x="412" y="145" fill="#7d8590" font-size="11">Students impacted</text>
+
+  <!-- Stat Card 4: Mentored -->
+  <rect x="580" y="52" width="192" height="110" rx="8" fill="#161b22" stroke="#D85A30" stroke-width="1.5"/>
+  <rect x="580" y="52" width="192" height="4" rx="2" fill="#D85A30"/>
+  <text x="596" y="90" fill="#D85A30" font-size="13">🚀</text>
+  <text x="596" y="124" fill="#e6edf3" font-size="34" font-weight="700">40+</text>
+  <text x="596" y="145" fill="#7d8590" font-size="11">Developers mentored</text>
+
+  <!-- Section title 2 -->
+  <text x="28" y="192" fill="#7d8590" font-size="11" font-weight="600" letter-spacing="1.5">ROLES &amp; COMMUNITIES</text>
+
+  <!-- Community Card 1 -->
+  <rect x="28" y="206" width="368" height="62" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <rect x="28" y="206" width="3" height="62" rx="1" fill="#7F77DD"/>
+  <text x="44" y="227" fill="#e6edf3" font-size="13" font-weight="600">Community Lead — Youth Empowerment</text>
+  <text x="44" y="246" fill="#7d8590" font-size="12">65+ events · 1000+ students · 35+ team members</text>
+  <text x="44" y="262" fill="#7d8590" font-size="12">March 2025 – Present</text>
+
+  <!-- Community Card 2 -->
+  <rect x="408" y="206" width="364" height="62" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <rect x="408" y="206" width="3" height="62" rx="1" fill="#1D9E75"/>
+  <text x="424" y="227" fill="#e6edf3" font-size="13" font-weight="600">Founder — One-University (LinkedIn)</text>
+  <text x="424" y="246" fill="#7d8590" font-size="12">40+ mentees · 10+ deployed real projects</text>
+  <text x="424" y="262" fill="#7d8590" font-size="12">2024 – Present</text>
+
+  <!-- Community Card 3 -->
+  <rect x="28" y="280" width="368" height="50" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <rect x="28" y="280" width="3" height="50" rx="1" fill="#BA7517"/>
+  <text x="44" y="300" fill="#e6edf3" font-size="13" font-weight="600">Chair Creative Teams — MLSA UET Lahore</text>
+  <text x="44" y="320" fill="#7d8590" font-size="12">35+ events · 10+ member team · Oct 2024 – March 2025</text>
+
+  <!-- Community Card 4 -->
+  <rect x="408" y="280" width="364" height="50" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <rect x="408" y="280" width="3" height="50" rx="1" fill="#D85A30"/>
+  <text x="424" y="300" fill="#e6edf3" font-size="13" font-weight="600">UI/UX Tutor — D3 Digital Dynamo</text>
+  <text x="424" y="320" fill="#7d8590" font-size="12">25+ students · 5 projects · 98% satisfaction · 2025</text>
+</svg>

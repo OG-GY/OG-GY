@@ -78,29 +78,21 @@ Open To      →  Remote roles · Freelance projects · Collaborations
 
 ## 📣 Beyond the Code
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-**🎤 Technical Speaker**
-- Full Stack Web Development bootcamp — 80+ attendees
-- Machine Learning 3-day workshop — 65+ attendees  
-- Next.js APIs session — 40+ attendees
-- Web Scraping & Automation — 50+ attendees
-- ASP.NET Core with DB — 40+ attendees
+![Beyond the Code](https://raw.githubusercontent.com/OG-GY/OG-GY/main/beyond-the-code.svg)
 
-</td>
-<td width="50%">
+</div>
 
-**🌍 Community**
-- **Community Lead** @ Youth Empowerment — 1000+ students, 65+ events
-- **Founder** @ One-University — 40+ mentees, 10+ deployed projects
-- **Microsoft Learn Student Ambassador** — Beta Tier
-- **Chair Creative Teams** @ MLSA UET Lahore — 35+ events
+### 🎤 Speaking Events
 
-</td>
-</tr>
-</table>
+| Event | Org | Attendees |
+|---|---|---|
+| Full Stack Web Development (3-day bootcamp) | Youth Empowerment | 80+ |
+| Machine Learning Basic to Advanced (3-day) | MLSA UET Lahore | 65+ |
+| Web Scraping & Automation | Youth Empowerment | 50+ |
+| Full Stack Power with Next.js — Basics to API | Mentor Tech Hub | 40+ |
+| Elevating Web Expertise: ASP.NET Core with DB | MLSA UET Lahore | 40+ |
 
 ---
 
